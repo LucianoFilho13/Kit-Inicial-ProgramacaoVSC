@@ -9,7 +9,7 @@ function preload(){ // Carregar imagens, gifs, sons/musica e videos
 }
 
 function setup(){ // Setar valores iniciais
-  createCanvas(400,400);
+  createCanvas(400,400); //Tamanho da tela (Para ativar a camera precisa inserir a propriedade "WEBGL")
 
 }
 
