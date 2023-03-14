@@ -1,4 +1,3 @@
-/*
 Obs 
 Classes: 
   Não precisa criar uma var para criar uma classe, ex: "coinClass";
@@ -8,5 +7,4 @@ Classes:
 Text:
 text() tem que estar dentro da função draw()
   
-  
-  */
+ 
